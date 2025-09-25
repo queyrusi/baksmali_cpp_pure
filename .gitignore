@@ -1,0 +1,27 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Generated output
+*_output/
+temp/
+
+# Binary files
+*.jar
+*.dex
+*.o
+*.a
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+tests/output/
